@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI';
+  background: brown;
+  
+}
+
+.Tilt{
+  background: linear-gradient(89deg, #f5f5f5 0%, #517074 100%);
+  
+}
+

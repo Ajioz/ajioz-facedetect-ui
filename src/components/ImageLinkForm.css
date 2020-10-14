@@ -1,0 +1,20 @@
+.form{
+    width: absolute;
+    background-size: 40px 60px;
+    background: white;
+}
+
+button{
+    margin: 20px;
+    border-radius: 5px;
+    border-color: lightgray;
+    background: linear-gradient(89deg, white 0%, darkgray 100%);   
+    color: teal;
+    cursor: pointer;
+}
+
+input{
+    background-color: lightgray;
+    border-radius: 5px;
+    border-color: lightgrey;
+}
